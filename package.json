@@ -9,8 +9,7 @@
     "build": "webpack --config webpack.prod.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://nieltabar.github.io/simplefolio/"
+    "url": "https://nieltabar.github.io/simplefolio/"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
